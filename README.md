@@ -7,21 +7,23 @@ Optimiert für **LibreChat**, **MIA**, ChatGPT, Claude und Gemini.
 
 ## 📦 Verfügbare Skills
 
-### 🗂️ [`transkript-zusammenfassung`](./transkript-zusammenfassung/)
+### 🗂️ [`transkript-zusammenfassung`](./transkript-zusammenfassung/) (v3.0.0)
 
 Strukturierte Zusammenfassungen von **Mitarbeiter- und Führungskräfte-Gesprächen**,
-1:1s, Team-Meetings, Strategie-Sessions — angereichert durch automatische
-Kontext-Recherche in **Qlik** (Wissensdatenbank) und **Outlook** (Mails/Kalender)
-über die jeweiligen MCP-Server (Read-Only).
+1:1s, Team-Meetings und Strategie-Sessions — angereichert durch automatische
+Kontext-Recherche in **Qlik** (Wissensdatenbank) und dem gesamten
+**Microsoft-365**-Ökosystem (Outlook, Teams, OneDrive, SharePoint, Excel,
+Planner, OneNote) über die jeweiligen MCP-Server (Read-Only).
 
 **Features:**
 - 🇩🇪 Deutsch
 - 🧠 Selbstgesteuerte Tool-Auswahl (Agent entscheidet, wann Lookup sinnvoll ist)
-- 🔍 Multi-MCP: Qlik + Outlook gleichzeitig
+- 🔍 Multi-MCP: Qlik + Microsoft 365 gleichzeitig
 - 🛡️ Read-Only, DSGVO-konform
 - 📊 Lookup-Budget: max. 8 Tool-Calls pro Transkript
 - 🎯 Glossar-First-Prinzip für KPIs/Begriffe
 - 🗑️ Filtert ASR-Müll & Smalltalk automatisch
+- 🧩 Entscheidungsbaum: welcher MCP für welche Frage
 
 **Dateien:**
 - [`SKILL.md`](./transkript-zusammenfassung/SKILL.md) — Hauptdatei mit System-Prompt
@@ -36,7 +38,7 @@ Kontext-Recherche in **Qlik** (Wissensdatenbank) und **Outlook** (Mails/Kalender
 2. **System-Prompt-Block** (im Codeblock unter „👤 System-Prompt") kopieren
 3. In LibreChat / MIA als Custom-Agent einfügen
 4. Modell-Einstellungen aus der Tabelle übernehmen
-5. **Qlik-MCP + Outlook-MCP** im Agent aktivieren (Read-Only)
+5. **Qlik-MCP + Microsoft-365-MCP** im Agent aktivieren (Read-Only)
 6. Transkript in den Chat packen → fertig
 
 ---
