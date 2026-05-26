@@ -1,0 +1,158 @@
+Beispiel-Transkript aus Microsoft Teams
+Gesprächstyp: Internes Marketing-/Team-Meeting (Auszug, anonymisiert)
+Hinweis: Dieses Transkript enthält bewusst typische ASR-Artefakte (Smalltalk,
+fehlerhaft erkannte englische Phrasen, Hintergrundgespräche) — gut geeignet,
+um die Filterfähigkeit des Agenten zu testen.
+
+────────────────────────────────────────────────────────────────────
+
+Carsten Wehri  0:11
+Das ist Lea. Bei der Kampagne habe ich gerade ein paar Spiele. Lea, magst du deins
+einmal erklären?
+
+Lea Middendorf  0:20
+Ich habe einmal mehr von welche Maßnahmen liefen bei den Kampagnen gut. Also es ist
+so ein bisschen die Richtung, das was Alena auch gesagt hat, dass man vielleicht
+weniger einfach sagt, ich habe die und die Maßnahmen diese Woche umgesetzt oder das
+sind die Zahlen der Maßnahme, sondern eher das, was man als Ergebnisse daraus
+gezogen hat — das Bildformat lief gut, das Mailing hat funktioniert. Da ist, glaube
+ich, durchaus noch mehr oder wäre für mich zumindest interessanter, anstelle zu
+wissen, ich sag mal, du bist Beispiel, Kapstadt-Mailing rausgebracht. Ja, das ist
+für die Mark-Bereich dann sicherlich vielleicht gut oder schlecht gelaufen. Das
+sehen wir anhand der Zahlen. Aber für uns Pharma wäre es dann halt ja interessanter
+zu wissen, was hat in dem Markt funktioniert, was hat nicht funktioniert. Sollten
+wir vielleicht bei uns erst mal das testen, was gut funktioniert hat oder worauf
+müssen wir achten, bevor wir halt alle dieselben Fehler machen?
+
+Lea Middendorf  1:11
+Anfangen mit größere Abstände zwischen den Divisionsvorstellungen, weil das einfach
+für Pharma Medical Markt auch sehr eng getaktet ist — wir kommen gar nicht so
+schnell in neue Entwicklungen und ich kann dann gar nicht neu was berichten. Dass
+man den Zeitraum irgendwie vergrößert.
+
+Lea Middendorf  1:41
+Wir haben ja immer noch diese Grafikübersicht ganz am Anfang mit aufgenommen. Ich
+finde, die hat grundsätzlich weniger Mehrwert, weil wir meistens eh nur darüber
+sprechen mit „ja, alles gut, ja, nein". Wir haben ja unser Weekly dafür.
+
+Carsten Wehri  1:47
+Mhm.
+
+Lea Middendorf  2:00
+Und ich glaube, das reicht, wenn wir in dem Weekly darüber sprechen. Und ich glaube
+tatsächlich, über das Weekly ist das Thema komplett abgedeckt und gar nicht groß
+von Interesse für alle anderen.
+
+Carsten Wehri  2:13
+Bilder sehr sportlich. Sehen das alle so? Genau. Dieses, was wir jetzt rausgefunden
+haben — dass du die überfälligen Termine auch gar nicht aufzeichnen. Es geht da ja
+um die Auslastung der Grafik. Aber wir haben ja wahrscheinlich direkt darüber…
+
+[… Inhalte zum Kampagnen-Review …]
+
+Carsten Wehri  25:01
+Und Ronny hat uns gestern mitgeteilt, dass er seine ersten freien Slots zur
+Umsetzung für mehr Integration im Juni hätte.
+
+Carsten Wehri  25:11
+Ja, dass sie halt mit 1,75 Personen momentan am Anschlag laufen und nichts fertig
+kriegen. Er hat uns gebeten, ob wir noch mal bei euch das Thema vorbringen könnten,
+dass sie mit 1,75 nicht — naja, telefoniert ist klar mit denen.
+
+Carsten Wehri  25:31
+Ja, ja, gut, weil ich kann mir auch keine Ressource schnitzen. Der will dann immer
+so volle Lösung — die kommen auch nicht aus dem Himmel und ich krieg die auch nicht
+einfach von allen freigegeben. Ist gerade uncool, weil dafür muss man sich
+anstellen bei allen Sachen, aber es ist eben Fakt.
+
+Carsten Wehri  25:47
+Das heißt aber: das Zeitfenster im Juni, was wir kriegen können, blocken wir dann
+jetzt. Das gebe ich rüber, und ich sag ihm auch: wenn er was schneller machen
+kann, dann soll er es machen.
+
+Carsten Wehri  26:03
+Und Julia hatte noch eine Geschichte — sie hatte mit Content Surf gesprochen. Die
+haben auch ein Integrationspaket, wo man eine API einbinden kann. Sie wollte
+klären, ob wir da unsere eigenen Tools einbinden können, weil die Tools, die da
+eingebunden sind, laufen alle in den U.S.A. — das heißt nicht unter unserer
+Kontrolle, und die sind damit datenschutztechnisch raus.
+
+Carsten Wehri  26:22
+Das wollte sie eigentlich nicht gestern machen, und dann hatte sie heute Morgen
+geschrieben.
+
+Carsten Wehri  26:29
+Wie geht's? Also, mein Sie ist echt nicht falsch.
+
+Carsten Wehri  26:33
+Thank you.
+
+Carsten Wehri  26:36
+Ah, dann eben frühstücken.
+
+Carsten Wehri  26:39
+Hm.
+
+Carsten Wehri  26:43
+Haben das nicht gesehen. Nee, ich bin jetzt wenigstens auch locker. Jetzt kill ich
+da nicht dran rum, weil ich irgendwas raus[hole]. Das man sieht es aber eigentlich
+nicht — aber ich hab nur gesagt, das passiert auch nur jemandem, der da keinen
+Klar[blick hat]. Aber du kannst mir die Sachen gerne [schicken].
+
+Carsten Wehri  26:59
+Ja, mach ich.
+
+Carsten Wehri  27:00
+Other than.
+
+Carsten Wehri  27:05
+Ich habe jetzt nur, dass ich in Hongkong so mit dem…
+
+Carsten Wehri  27:10
+So, ich hab überlegt, dass man das vielleicht in der neuen Saison kommt.
+
+Carsten Wehri  27:23
+[…] dass du halt grad in so einer Bewegung bist von hinten, dass da irgendjemand
+mit drauf kommt — der 27. kommt noch ein bisschen drauf, wenn ein paar machen, aber…
+
+Carsten Wehri  27:41
+No.
+
+Carsten Wehri  27:43
+Before I don't have a point from a point of a pop.
+
+Carsten Wehri  27:52
+Aber weißt du noch, wie ich das gerade mal in der Party [zeigte] — hier ist das
+Plakat, weil jetzt hab ich da irgendein Plastik-Malli, Ramon, hängt das überall hin.
+
+Carsten Wehri  28:09
+Talking with a pop.
+
+Carsten Wehri  28:15
+Ah.
+
+[… längere Phase Smalltalk / ASR-Halluzinationen / Hintergrundgespräche …]
+
+Carsten Wehri  51:00
+Carsten kniet hier gerade. Warte mal, ich glaube schon. Doppelseitiges Klebeband.
+
+Carsten Wehri  51:08
+Fragt Alina, haben wir welches bei uns hier? Da musst du nicht sagen. Warte, ich guck.
+
+Carsten Wehri  51:38
+Bea hat auch mal was gesagt. Vielleicht hätte Bea auch was da, sagt Carsten gerade
+nur, was blinker und schneller ist.
+
+Carsten Wehri  51:57
+Ja, ansonsten, wenn du nichts kriegst, dann lauf ich ins Szenario und guck mal,
+irgendwie hol ich da auch ein paar von den Geräten. Ja, ja, danke. Ciao.
+
+[…]
+
+Carsten Wehri  55:47
+Na, Salzgrotte musst du doch immer weiße Socken anziehen. Wir haben jetzt einen
+Termin irgendwo übernächste Woche — eigentlich gut. Aber ich fand es irgendwie
+auch komisch, weil wenn du jetzt rosa Socken [trägst] oder färbt das Salz auf…
+
+────────────────────────────────────────────────────────────────────
+[Ende des Auszugs]
