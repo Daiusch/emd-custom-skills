@@ -7,7 +7,7 @@ Optimiert für **LibreChat**, **MIA**, ChatGPT, Claude und Gemini.
 
 ## 📦 Verfügbare Skills
 
-### 🗂️ [`transkript-zusammenfassung`](./transkript-zusammenfassung/) (v3.0.0)
+### 🗂️ [`transkript-zusammenfassung`](./transkript-zusammenfassung/) (v3.1.0)
 
 Strukturierte Zusammenfassungen von **Mitarbeiter- und Führungskräfte-Gesprächen**,
 1:1s, Team-Meetings und Strategie-Sessions — angereichert durch automatische
@@ -16,14 +16,19 @@ Kontext-Recherche in **Qlik** (Wissensdatenbank) und dem gesamten
 Planner, OneNote) über die jeweiligen MCP-Server (Read-Only).
 
 **Features:**
-- 🇩🇪 Deutsch
+- 🇩🇪 Deutsch, XML-strukturierter System-Prompt (robust über Claude/GPT/Gemini)
 - 🧠 Selbstgesteuerte Tool-Auswahl (Agent entscheidet, wann Lookup sinnvoll ist)
+- 📋 Expliziter 6-Schritt-Workflow mit mentalem Budget-Tracking
 - 🔍 Multi-MCP: Qlik + Microsoft 365 gleichzeitig
 - 🛡️ Read-Only, DSGVO-konform
-- 📊 Lookup-Budget: max. 8 Tool-Calls pro Transkript
+- 📊 Lookup-Budget: max. 8 Tool-Calls pro Transkript (12 mit „Tief recherchieren")
 - 🎯 Glossar-First-Prinzip für KPIs/Begriffe
 - 🗑️ Filtert ASR-Müll & Smalltalk automatisch
 - 🧩 Entscheidungsbaum: welcher MCP für welche Frage
+- ✅ Self-Check-Checkliste vor jeder Ausgabe
+- 🔍 Few-Shot-Beispiele inline (ASR-Müll, Lookup, Disambiguation)
+- 🏭 Pöppelmann-Kontext eingebaut (KAPSTO / K-TECH / FAMAC / TEKU + Initiativen)
+- 🎚️ Spezial-Modi: HR-Akte / Konflikt-Analyse / Nur To-dos / Entwicklungsplan / …
 
 **Dateien:**
 - [`SKILL.md`](./transkript-zusammenfassung/SKILL.md) — Hauptdatei mit System-Prompt
